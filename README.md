@@ -43,7 +43,7 @@ The assets can still be hosted on Azure Static Web Apps if desired; `public/stat
 - Choose 5, 8, 10, 16, 19, or 27 questions. Counts refer to generated questions; multipart items have multiple scored answer parts.
 - Optional countdown: 30 minutes for quizzes, 105 minutes for tests, or 120 minutes for cumulative final practice. Expiry submits saved answers. Closing the browser does not pause the deadline; an expired session is submitted when reopened.
 - Save answers and scratch notes, leave, and resume after a refresh.
-- Review results, practise missed topics, and see topic accuracy and recent sessions.
+- Review results, practise missed topics, and see topic accuracy and recent sessions. Incorrect answers include a specific lesson, its course chapter, and an in-app study summary.
 - Use the course reference and supplied household conversion factors.
 
 The timer and question counts are practice settings, not exact replicas of the course assessments. The mock exam's cover and question numbering are inconsistent; this app does not use its printed mark totals.
